@@ -2,3 +2,33 @@
     width: 970px;
     margin:auto;
 }
+
+.main-title {
+    margin-top: 5.875rem;
+    margin-bottom: 2rem;
+    font-weight: 400px;
+    font-size: 4rem;
+    font-family: 'Righteous', cursive
+}
+
+.maintext {
+    margin-bottom: 3rem;
+    font-weight: 400;
+    font-size: 1.5rem;
+    
+}
+
+.main-button {
+    background:#ECD6C4;
+    width: 11.56rem;
+    height: 4.187rem;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-size: 1.5rem;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
