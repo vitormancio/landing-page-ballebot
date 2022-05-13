@@ -2,3 +2,10 @@
     color: #FFF2E7;
     
 }
+
+.line.line.-small {
+    width: 276px;
+    margin: auto;
+    display: block;
+    margin-bottom: 74px;
+}
