@@ -1,0 +1,18 @@
+.article {
+    max-width: 970px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.article-title {
+    font-family: 'Righteous', cursive;
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+    margin-bottom: 31px;
+}
+
+.article-ol {
+    font-size: 1.125rem;
+    line-height: 2.5rem;
+}
